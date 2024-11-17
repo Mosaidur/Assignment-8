@@ -3,10 +3,10 @@
 Welcome to **Dora Gadget**, an e-commerce platform designed to bring you the latest and greatest gadgets. Explore our wide range of products, add them to your cart, and manage your wishlist effortlessly.
 
 ## Live Website
-[Dora Gadget Live Link](http://dora-gadget.surge.sh)
+[Dora Gadget Live Link](http://mosaidur1.netlify.app/)
 
 ## Requirement Document
-[Assignment Requirement Document](https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-adnanmahmud0/blob/main/public/Batch-10_Assignment-08-.pdf)
+[Assignment Requirement Document](https://github.com/Mosaidur/Assignment-8)
 
 ## React Fundamentals Used
 - **JSX**: Used for rendering HTML within JavaScript.
